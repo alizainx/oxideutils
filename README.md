@@ -5,7 +5,7 @@ Memory-safe, high-performance rewrite of GNU binutils in pure Rust.
 Drop-in compatible. Better defaults. Production quality.
 
 [![CI](https://github.com/your-org/oxideutils/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/oxideutils/actions/workflows/ci.yml)
-[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)](LICENSE)
 [![Rust: 2021 Edition](https://img.shields.io/badge/rust-2021%20edition-orange)](https://doc.rust-lang.org/edition-guide/rust-2021/)
 
 ---
